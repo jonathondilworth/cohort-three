@@ -55,23 +55,23 @@ build-and-serve-docs
 #### Homework
 
 **Documentation running on ```http://localhost:8002```**
-```
+
 ![./docs.png](./img/l1/docs.png)
-```
+
 **Server**
-```
+
 ![./server.png](./img/l1/server.png)
-```
+
 *Server seems to do this on Mac M1, will ask about / look for a fix soon.*
 
 **Client**
-```
+
 ![./client.png](./img/l1/client.png)
-```
+
 **Playground**
-```
+
 ![./playground.png](./img/l1/pg.png)
-```
+
 **Playing on the playground**
 
 A working example, similar to the one in the lecture:
