@@ -161,35 +161,35 @@ Little mistake, can you spot it?
 Corrected:
 
 
-[10](./img/l1/10.png)
+![10](./img/l1/10.png)
 
 
 Seems broken, right?
 
 
-[11](./img/l1/11.png)
+![11](./img/l1/11.png)
 
 
 Yep:
 
 
-[12](./img/l1/12.png)
+![12](./img/l1/12.png)
 
 
 Let's do some fixing, new wallet balances:
 
 
-[13](./img/l1/13.png)
+![13](./img/l1/13.png)
 
 
 We're back:
 
 
-[14](./img/l1/14.png)
+![14](./img/l1/14.png)
 
 
 
-[18](./img/l1/18.png)
+![18](./img/l1/18.png)
 
 
 *Spent a lot of time reading through parts of the codebase, trying to get a better understanding of both Plutus/Haskell and I am learning every day.*
